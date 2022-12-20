@@ -18,16 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Aaron A. Meek
+email: aaronameek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome! My name is Aaron Meek, and I am a political science Ph.D. student at The George
+  Washington University in Washington, DC. My research centers on American judicial politics,
+  and some of my current projects include work on administrative agency compliance with
+  federal court of appeals decisions, the impact of state supreme court selection systems
+  on legal opinion clarity, and the influence of congressional court curbing on the behavior
+  of Supreme Court justices. I am originally from Rochester Hills, MI, and received my B.A.
+  in political science from Michigan State University and my M.A. in political science from
+  The George Washington University. Outside of academic work, I enjoy spending my time at the
+  piano, watching Spartan football, and hanging out with my nieces and nephews.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: Aaa
+github_username:  aaronameek
 
 # Build settings
 theme: minima
