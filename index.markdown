@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![aam_headshot][/images/aam-headshot_optimized.jpg]
+<!-- ![aam_headshot][/images/aam-headshot_optimized.jpg] -->
 
 Welcome! My name is Aaron Meek, and I am a political science Ph.D. student at The George Washington University in Washington, DC. My research centers on American judicial politics, and some of my current projects include work on administrative agency compliance with federal court of appeals decisions, the impact of state supreme court selection on legal opinion clarity, and the influence of congressional court curbing on the behavior of U.S. Supreme Court justices. I am also interested in bureaucratic policymaking and the politics of administrative law.
 
