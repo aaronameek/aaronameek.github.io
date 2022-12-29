@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /pdfs/aam_cv.pdf
 ---
 
 <!--
