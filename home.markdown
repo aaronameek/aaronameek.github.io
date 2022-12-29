@@ -1,6 +1,6 @@
 ---
 title: Home
 redirect_to:
-    - /index.html
+    - /index
 order: 1
 ---
