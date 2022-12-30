@@ -6,6 +6,7 @@ order: 3
 ---
 
 ### Office:
+<div style="padding-left: 60px;">
 Department of Political Science
 
 The George Washington University
@@ -15,6 +16,7 @@ The George Washington University
 2115 G St NW,
 
 Washington, DC 20052
+</div>
 
 
 ### Email:
