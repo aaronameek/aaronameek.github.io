@@ -5,7 +5,7 @@ permalink: /contact/
 order: 3
 ---
 
-<b>Office:</b>
+### Office:
 Department of Political Science
 
 The George Washington University
@@ -17,5 +17,5 @@ The George Washington University
 Washington, DC 20052
 
 
-<b>Email:</b>
+### Email:
 [aaronameek@gwu.edu](mailto:aaronameek@gwu.edu)
