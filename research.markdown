@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Working Papers
+### *Working Papers*
 
 * "Rule of Law Showdown: Administrative Agency Compliance at the U.S. Courts of Appeals" (_dissertation prospectus in progress_):
 
