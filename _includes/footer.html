@@ -1,1 +1,18 @@
-<footer> <small>&copy; Copyright {{ 'now' | date: "%Y" }}, {{ site.title }}.</small> </footer>
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <small>
+            &copy; Copyright {{ 'now' | date: "%Y" }}, {{ site.author.name}}.
+          </small>
+        </p>
+
+      </div>
+
+  </div>
+
+</footer>
