@@ -8,5 +8,5 @@ permalink: /cv/
 <embed src="http://aaronameek.com/pdfs/aam_cv.pdf" width="800" height="1000" type="application/pdf">
 
 <small>
-Download: [aam_cv.pdf](http://aaronameek.com/pdfs/aam_cv.pdf)
+If viewer doesn't appear, click here to download: [aam_cv.pdf](http://aaronameek.com/pdfs/aam_cv.pdf)
 </small>
