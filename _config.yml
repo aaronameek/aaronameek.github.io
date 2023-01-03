@@ -34,8 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-# Header image
-header: "http://aaronameek.com/imgs/scotus.jpg"
 
 # Navigation pages
 header_pages:
