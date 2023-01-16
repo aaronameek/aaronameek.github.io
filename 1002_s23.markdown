@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PSC 1002 (Spring 2023) -- Introduction to American Politics
+title: PSC 1002 (Spring 2023) — Introduction to American Politics
 permalink: /1002_s23/
 ---
 
