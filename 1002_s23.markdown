@@ -13,11 +13,11 @@ This page serves to supplement our official section Blackboard site, and saves m
 {% assign w1 = "17 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w2 = "24 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w3 = "31 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w4 = "7 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}      <!-- No sections -->
+{% assign w4 = "7 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}  <!-- No sections -->
 {% assign w5 = "14 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w6 = "21 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w7 = "28 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w8 = "7 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}         <!-- No sections (Spring Break) -->
+{% assign w8 = "7 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %} <!-- No sections (Spring Break) -->
 {% assign w9 = "21 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w10 = "28 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w11 = "4 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
