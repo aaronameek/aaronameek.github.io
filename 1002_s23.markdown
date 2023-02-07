@@ -13,11 +13,15 @@ This page serves to supplement our official section Blackboard site, and saves m
 {% assign w1 = "17 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w2 = "24 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w3 = "31 January 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w4 = "7 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}  <!-- No sections -->
+
+{% assign w4 = "7 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+
 {% assign w5 = "14 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w6 = "21 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w7 = "28 February 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w8 = "7 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %} <!-- No sections (Spring Break) -->
+
+{% assign w8 = "7 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+
 {% assign w9 = "21 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w10 = "28 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign w11 = "4 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
@@ -54,7 +58,7 @@ No materials have been posted yet. Check back at 12pm (noon) each Tuesday for an
 {% else %}
 {% endif %}
 
-{% if today > w4 %}         <!-- No sections -->
+{% if today > w4 %}
 ### Week 4: Federalism & Its Implications
 * <a href="/docs/1002_s23/pdf_slides/1002_s23_w4_Federalism_slides.pdf" download>Slides download</a>
 * <a href="/docs/1002_s23/html_notes/1002_s23_w4_Federalism_notes.html" target="_blank">Notes page</a>
