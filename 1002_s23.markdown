@@ -22,12 +22,12 @@ This page serves to supplement our official section Blackboard site, and saves m
 
 {% assign mt = "7 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 
-{% assign w8 = "21 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w9 = "28 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w10 = "4 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w11 = "11 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w12 = "18 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
-{% assign w13 = "25 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w9 = "21 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w10 = "28 March 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w11 = "4 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w12 = "11 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w13 = "18 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
+{% assign w14 = "25 April 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 {% assign fn = "9 May 2023 12:00" | date: "%Y-%m-%d %H:%M" %}
 
 <br>
@@ -94,47 +94,47 @@ Grades for the Midterm Exam will be released during the week of March 20th.
 {% else %}
 {% endif %}
 
-{% if today > w8 %}
-### Week 8: Pluralism & Interest Groups
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w8_PluralismInterestGroups_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w8_PluralismInterestGroups_notes.html" target="_blank">Notes page</a>
-{% else %}
-{% endif %}
-
 {% if today > w9 %}
-### Week 9: Judicial Branch
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w9_Judicial_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w9_Judicial_notes.html" target="_blank">Notes page</a>
+### Week 9: Pluralism & Interest Groups
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w9_PluralismInterestGroups_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w9_PluralismInterestGroups_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
 
 {% if today > w10 %}
-### Weeks 10 & 11: Congress
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w10_Congress_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w10_Congress_notes.html" target="_blank">Notes page</a>
+### Week 10: Judicial Branch
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w10_Judicial_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w10_Judicial_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
 
-<!-- WEEK 11 CONTENT, IF NEEDED
 {% if today > w11 %}
-### Week 11: Congress *cont.*
+### Weeks 11 & 12: Congress
 * <a href="/docs/1002_s23/pdf_slides/1002_s23_w11_Congress_slides.pdf" download>Slides download</a>
 * <a href="/docs/1002_s23/html_notes/1002_s23_w11_Congress_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
+
+<!-- WEEK 12 CONTENT, IF NEEDED
+{% if today > w12 %}
+### Week 12: Congress *cont.*
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w12_Congress_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w12_Congress_notes.html" target="_blank">Notes page</a>
+{% else %}
+{% endif %}
 -->
 
-{% if today > w12 %}
-### Week 12: The Presidency
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w12_Presidency_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w12_Presidency_notes.html" target="_blank">Notes page</a>
+{% if today > w13 %}
+### Week 13: The Presidency
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w13_Presidency_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w13_Presidency_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
 
-{% if today > w13 %}
-### Week 13: The Federal Bureaucracy
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w13_Bureaucracy_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w13_Bureaucracy_notes.html" target="_blank">Notes page</a>
+{% if today > w14 %}
+### Week 14: The Federal Bureaucracy
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w14_Bureaucracy_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w14_Bureaucracy_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
 
