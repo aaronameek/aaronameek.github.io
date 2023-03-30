@@ -103,8 +103,8 @@ Grades for the Midterm Exam will be released during the week of March 20th.
 
 {% if today > w10 %}
 ### Week 10: Judicial Branch
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w10_Judicial_slides.pdf" download>Slides download</a>
-* <a href="/docs/1002_s23/html_notes/1002_s23_w10_Judicial_notes.html" target="_blank">Notes page</a>
+* <a href="/docs/1002_s23/pdf_slides/1002_s23_w10_Courts_slides.pdf" download>Slides download</a>
+* <a href="/docs/1002_s23/html_notes/1002_s23_w10_Courts_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
 
