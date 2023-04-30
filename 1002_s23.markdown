@@ -87,7 +87,7 @@ No materials have been posted yet. Check back at 12pm (noon) each Tuesday for an
 {% else %}
 {% endif %}
 
-{% if today > mt %}             <!-- No sections -->
+{% if today > mt %}
 ### MIDTERM EXAM
 ~~The Midterm Exam must be taken during the scheduled class period on **March 9th**.~~
 Grades for the Midterm Exam will be released during the week of March 20th.
@@ -133,7 +133,7 @@ Grades for the Midterm Exam will be released during the week of March 20th.
 
 {% if today > w14 %}
 ### Week 14: The Federal Bureaucracy
-* <a href="/docs/1002_s23/pdf_slides/1002_s23_w14_Bureaucracy_slides.pdf" download>Slides download</a>
+<!-- * <a href="/docs/1002_s23/pdf_slides/1002_s23_w14_Bureaucracy_slides.pdf" download>Slides download</a> -->
 * <a href="/docs/1002_s23/html_notes/1002_s23_w14_Bureaucracy_notes.html" target="_blank">Notes page</a>
 {% else %}
 {% endif %}
