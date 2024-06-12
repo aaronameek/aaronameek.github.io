@@ -3,12 +3,39 @@ layout: default
 ---
 <article class="post">
 
+<!--
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
+-->
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  {% if page.draft == true %}
+
+    <style type="text/css" media="screen">
+      .container {
+        margin: 10px auto;
+        max-width: 650px;
+        text-align: center;
+      }
+      h1 {
+        margin: 30px 0;
+        font-size: 2em;
+        line-height: 1;
+        letter-spacing: -1px;
+      }
+    </style>
+  
+    <div class="container">
+      <h1>Good things come to those who wait.</h1>
+      <p>Sorry for the trouble – I'm working on my site right now. Sometimes, I shut the whole site down for updates, but usualy I'll just block a page or two for a short time. I promise whatever you're looking for will be back online soon. If it's urgent, please email me: <b><a href="mailto:aaronameek@gmail.com">aaronameek@gmail.com</a></b></p>
+    </div>
+
+  {% else %}
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  {% endif %}
 
 </article>

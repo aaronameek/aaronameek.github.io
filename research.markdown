@@ -5,13 +5,7 @@ permalink: /research/
 draft: true
 ---
 
-{% if page.draft == true %}
-
-*Under construction.*
-
-{% else %}
-
-### *Current Projects*
+### Current Projects
 
 * "Rule of Law Showdown: Administrative Agency Compliance at the U.S. Courts of Appeals" (_dissertation prospectus draft_):
 
@@ -48,5 +42,3 @@ Scholars operating in both the judicial politics and social movements traditions
 <div style="padding-left: 60px; padding-bottom: 25px;">
 Not unlike their domestic counterparts, international courts depend heavily on institutional legitimacy to induce compliance with their decisions and overcome the notorious judicial implementation problem. The European Court of Human Rights (ECtHR), despite widespread acknowledgement of its success, is no different from other courts in this respect. Conventional wisdom suggests that (1) public support is critical for the maintenance of judicial power and (2) that this support is orthogonal to citizens' partisan motivations, such as attachments to particular political figures. These propositions, however, have yet to be tested systematically in the context of transnational legal institutions like the ECtHR. Here, I leverage cross-national survey data to investigate whether and to what extent individual-level attitudes towards the ECtHR are grounded in elite cues, substantive concerns about case outcomes, or both.
 </div>
-
-{% endif %}

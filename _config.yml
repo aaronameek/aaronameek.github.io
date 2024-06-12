@@ -46,6 +46,7 @@ header_pages:
   - index.markdown
   #- cv.markdown
   #- research.markdown
+  #- teaching.markdown
   - contact.markdown
 
 # Exclude from processing.
@@ -56,7 +57,9 @@ header_pages:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _includes/helper1.txt
+  - _sass/minima/helper2.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

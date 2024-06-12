@@ -5,13 +5,11 @@ permalink: /contact/
 draft: true
 ---
 
-{% if page.draft == true %}
+<!-- ![hfa_logo](/imgs/HFA_navy2_logo.png){: width="250" }{: style="margin-top:20px; margin-bottom:10px" }
+-->
 
-*Under construction.*
+![hfa_logo](/imgs/HFA_navy2_logo.png){: width="250" }{: style="padding-top:20px; padding-bottom:10px" }
 
-{% else %}
-
-### Office
 **Michigan House Fiscal Agency**<br>
 Anderson House Office Building<br>
 4th Floor, North Tower<br>
@@ -24,18 +22,19 @@ Lansing, MI 48909-7514<br>
 
 **Website:** [https://www.house.mi.gov/hfa](https://www.house.mi.gov/hfa)
 
-<br>
 
 ### Email
 <!-- **Official:** [ameek@house.mi.gov](mailto:ameek@house.mi.gov) -->
 **Personal:** [aaronameek@gmail.com](mailto:aaronameek@gmail.com)
 
+<!--
 <br>
 
 ### Miscellaneous
 []
 
-{% endif %}
+-->
+
 
 
 <!--
