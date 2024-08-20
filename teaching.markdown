@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-draft: true
+draft: false
 ---
 
 Teaching has always been a great passion of mine, and I take pride in my "students first," engagement-driven pedagogical approach that encourages deep critical thinking, highlights the development of transferrable skills, and emphasizes personal, scholarly, and civic growth.

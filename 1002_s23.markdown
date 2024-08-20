@@ -2,6 +2,7 @@
 layout: page
 title: PSC 1002 (Spring 2023) — Introduction to American Politics
 permalink: /1002_s23/
+draft: true
 ---
 
 This page serves to supplement our official section Blackboard site, and saves me the hassle of having to manually upload our weekly discussion materials to Blackboard. Lightly modified copies of my discussion notes are available in HTML webpage format, and the as-is slides are available to download as PDFs. If you notice an error, please let me know at [aaronameek@gwmail.gwu.edu](mailto:aaronameek@gwmail.gwu.edu) and I'll do my best to correct it as soon as possible.

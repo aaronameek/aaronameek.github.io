@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-draft: true
+draft: false
 ---
 
 <!-- ![hfa_logo](/imgs/HFA_navy2_logo.png){: width="250" }{: style="margin-top:20px; margin-bottom:10px" }
@@ -20,12 +20,9 @@ Lansing, MI 48909-7514<br>
 **Phone:** (517)-373-8080<br>
 **Fax:** (517)-373-5874
 
-**Website:** [https://www.house.mi.gov/hfa](https://www.house.mi.gov/hfa)
-
-
-### Email
-<!-- **Official:** [ameek@house.mi.gov](mailto:ameek@house.mi.gov) -->
-**Personal:** [aaronameek@gmail.com](mailto:aaronameek@gmail.com)
+**Website:** [https://www.house.mi.gov/hfa](https://www.house.mi.gov/hfa)<br>
+**Email:** [ameek@house.mi.gov](mailto:ameek@house.mi.gov)
+<!-- **Personal:** [aaronameek@gmail.com](mailto:aaronameek@gmail.com) -->
 
 <!--
 <br>

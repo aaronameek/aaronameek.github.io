@@ -4,7 +4,7 @@
 
 layout: page
 title: Home
-draft: true
+draft: false
 ---
 
 ![aam_headshot](/imgs/aam_head.jpg){: width="250" }{: style="float: left; padding-right:25px" }

@@ -46,7 +46,7 @@ header_pages:
   - index.markdown
   #- cv.markdown
   #- research.markdown
-  #- teaching.markdown
+  - teaching.markdown
   - contact.markdown
 
 # Exclude from processing.
