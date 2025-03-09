@@ -44,6 +44,8 @@ plugins:
 # Navigation pages
 header_pages:
   - index.markdown
+  - work.markdown
+  - resume.markdown
   #- cv.markdown
   #- research.markdown
   - teaching.markdown

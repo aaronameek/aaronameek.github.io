@@ -12,7 +12,7 @@ draft: false
 
 **Michigan House Fiscal Agency**<br>
 Anderson House Office Building<br>
-4th Floor, North Tower<br>
+<!--4th Floor, North Tower<br>-->
 124 N. Capitol Ave.<br>
 P.O. Box 30014<br>
 Lansing, MI 48909-7514<br>
@@ -32,7 +32,9 @@ Lansing, MI 48909-7514<br>
 
 -->
 
-
+### Other Contact Info
+**LinkedIn:** <https://www.linkedin.com/in/aaronameek/><br>
+**GitHub:** <https://github.com/aaronameek>
 
 <!--
 
