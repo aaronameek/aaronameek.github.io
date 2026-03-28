@@ -5,14 +5,10 @@ permalink: /contact/
 draft: false
 ---
 
-<!-- ![hfa_logo](/imgs/HFA_navy2_logo.png){: width="250" }{: style="margin-top:20px; margin-bottom:10px" }
--->
-
 ![hfa_logo](/imgs/HFA_navy2_logo.png){: width="250" }{: style="padding-top:20px; padding-bottom:10px" }
 
 **Michigan House Fiscal Agency**<br>
 Anderson House Office Building<br>
-<!--4th Floor, North Tower<br>-->
 124 N. Capitol Ave.<br>
 P.O. Box 30014<br>
 Lansing, MI 48909-7514<br>
@@ -22,32 +18,7 @@ Lansing, MI 48909-7514<br>
 
 **Website:** [https://www.house.mi.gov/hfa](https://www.house.mi.gov/hfa)<br>
 **Email:** [ameek@house.mi.gov](mailto:ameek@house.mi.gov)
-<!-- **Personal:** [aaronameek@gmail.com](mailto:aaronameek@gmail.com) -->
-
-<!--
-<br>
-
-### Miscellaneous
-[]
-
--->
 
 ### Other Contact Info
 **LinkedIn:** <https://www.linkedin.com/in/aaronameek/><br>
 **GitHub:** <https://github.com/aaronameek>
-
-<!--
-
-### *Office*
-Department of Political Science  
-The George Washington University  
-450 Monroe Hall  
-2115 G Street NW,  
-Washington, DC 20052
-
-
-### *Email*
-Personal: [aaronameek@gmail.com](mailto:aaronameek@gmail.com)  
-GWU: [aaronameek@gwu.edu](mailto:aaronameek@gwu.edu)
-
--->

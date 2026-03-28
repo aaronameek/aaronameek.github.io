@@ -1,2 +1,19 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+body {
+    text-align: justify;
+}
+
+h2 {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    border-bottom: 4px solid $border-color-02;
+}
+
+h3 {
+    font-weight: 300;
+    letter-spacing: 0.01em;
+    border-bottom: 2px solid $border-color-02;
+    width: fit-content;
+}

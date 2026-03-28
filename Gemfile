@@ -36,3 +36,6 @@ gem "webrick", "~> 1.7"
 
 # Redirect pages
 gem "jekyll-redirect-from"
+
+# New tab link opener
+gem 'jekyll-target-blank'

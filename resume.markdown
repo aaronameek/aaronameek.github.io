@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: Résumé
 permalink: /resume/
 #permalink: /pdfs/aam_cv.pdf    # Direct link
 draft: false
