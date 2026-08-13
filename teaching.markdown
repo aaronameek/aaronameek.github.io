@@ -7,14 +7,21 @@ draft: false
 
 Teaching has always been a great passion of mine, and I take pride in my "students first," engagement-driven pedagogical approach that encourages deep critical thinking, highlights the development of transferrable skills, and emphasizes personal, scholarly, and civic growth.
 
-While studying at The George Washington University in Washington, D.C., I served as an graduate-level instructor for a variety of political science courses, ranging from introductory-level seminars on American politics and statistical research methodology to writing-intensive upper-level courses on the American Congress and legislative process. I am grateful to – and humbled by – students that have anonymously contributed feedback over the years, some of which can be seen below:
+While studying at The George Washington University in Washington, D.C., I served as an graduate teaching assistant for a variety of political science courses, ranging from introductory-level seminars on American politics and statistical research methodology to writing-intensive upper-level courses on the American Congress and legislative process. In addition to my time as a graduate instructor, I also worked as an instructional assistant for courses focused on American judicial politics and general social science research during my time as an undergraduate at Michigan State University. I bring my collective experience from each of the courses below to bear each time I step into a classroom.
 
-<!-- BEGIN STUDENT EVAL QUOTES -->
-> "Aaron went above and beyond during discussion sections and really wanted all of us to succeed. He was always available to help and explained everything with R extremely well. Aaron was a great TA and I don't think I would have done nearly as well in this class without our discussion sections. Thank you Aaron!"
+### The George Washington University
+- PSC 1002: Introduction to American Politics
+    - Spring 2023
+    - Fall 2022
+- PSC 2101: Scope and Methods of Political Science
+    - Spring 2022
+- PSC 2218: Legislative Politics (Writing in the Disciplines)
+    - Fall 2021
+    - Spring 2021
+    - Fall 2020
 
-> "Aaron was an incredible TA. Not only was he incredibly knowledgable about coding programs used and able to help students who often had zero experience with questions, but he clearly cared deeply about the success of all students. Aaron was incredibly accessible and regularly met outside of office hours and often incorporated last minute requests. Beyond course content, he frequently offered advice and insight on broader questions about post secondary degrees and various life topics. Aaron went above and beyond in his duties as a TA and I consider myself lucky to have had him as an instructor."
-
-> "Aaron was the best TA I have ever had at GW. I am a junior and have never met a TA who cares so much about his students. I do not think I would have done as well in this course without him."
-<!-- END STUDENT EVAL QUOTES -->
-
-During and immediately following my undergraduate coursework at Michigan State University, I also served as an Undergraduate Learning Assistant for a course on American judicial politics and as a course assistant for a summer seminar geared towards educating students to become more effective consumers of social science research. I bring my collective experience from each of these teaching experiences to bear each time I step into a classroom, with an understanding that even as an instructor, true learning never ends!
+### Michigan State University
+- ISS 305: Evaluating Evidence -- Becoming a Smart Research Consumer
+    - Summer 2019
+- PLS 320: Judicial Politics
+    - Spring 2018
